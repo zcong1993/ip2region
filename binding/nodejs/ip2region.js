@@ -632,3 +632,4 @@ class IP2Region {
 //#endregion
 
 module.exports = IP2Region;
+module.exports.default = IP2Region;
